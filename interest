@@ -1,11 +1,43 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>interest</title>
 </head>
 <body>
+
+    <h1>興味のある分野とは…？</h1>
+    <nav>
+        <a href="index.html">home.</a> /
+        <a href="study.html">study.</a> /
+        <a href="interest.html">interest.</a>
+    </nav>
+   
+    <ul>
+        <li>基礎心理学
+            <p>→特に認知心理学に興味を持っている。</p>
+        </li>
+    </ul>
+
+    <h2>それはなぜか？</h2>
+    <p>認知心理学に興味を持った理由は、実際の状況や事実と、私たちの脳が判断・記憶している内容とが必ずしも一致しない点に強い面白さを感じたからである。</p>
+  
+    <p>本来は同じ情報を見聞きしているはずでも、人によって解釈が異なったり、脳の処理の過程で情報が歪んで記憶されたりすることがある。<br>なぜそのようなズレが生じるのかを明らかにしようとする認知心理学の視点に、強い関心を抱くようになった。</p>
+
     
+    ページ② 興味のある分野（基礎心理学）
+→ 実験・刺激・評価尺度の話
+→ 関連用語まとめ
+
+<h2>実際行った実験</h2>
+
+<h3></h3>
+
+基礎心理学・認知心理学の話題
+余裕があればページ③
+→ 実験例の紹介 or 用語集
 </body>
 </html>
+
+実際例　色と食欲　画像
