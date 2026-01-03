@@ -1,0 +1,29 @@
+h1{
+    color:#4e4e50;
+
+}
+
+h2{
+    color: #6c7a89;
+
+}
+
+h3{
+    color: #c8b6a6;
+
+}
+
+p{
+    font-family: serif;
+}
+
+ul, ol {
+    display: inline-block;
+    text-align: left;
+    font-family: serif;
+}
+
+body{
+    background-color:  #eae6e1;
+    text-align: center
+};
